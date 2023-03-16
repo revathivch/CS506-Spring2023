@@ -9,4 +9,3 @@ def draw_tree():
 
     return
 
-draw_tree()
